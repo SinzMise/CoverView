@@ -26,7 +26,7 @@ export default {
     },
     tryItNow: 'It\'s Free! Try now',
     footer: {
-      copyright: 'Made with 💛 by <a href="https://github.com/Lruihao" class="font-semibold underline decoration-wavy underline-offset-4" target="_blank" rel="noreferrer">Lruihao</a>',
+      copyright: '© <a href="https://www.storical.space/" class="font-semibold underline decoration-wavy underline-offset-4" target="_blank" rel="noreferrer">SinZero Limited</a>',
       authorBlog: 'Checkout <a href="https://lruihao.cn/projects/" target="_blank" rel="noreferrer" class="text-purple-400 hover:text-pink-400">more cool stuff</a> I built',
     },
     tweetText: 'type your thoughts here, Try https://coverview.lruihao.cn by @Lruihao',
