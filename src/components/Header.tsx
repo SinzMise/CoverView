@@ -28,14 +28,6 @@ function Header() {
             {t('common.star')}
           </span>
         </a>
-        <a
-          href={`https://x.com/intent/tweet?text=${tweetText}`}
-          className="bg-blue-400 hover:bg-blue-500 md:text-sm text-xs rounded-full px-4 font-semibold text-white p-1 hidden md:inline"
-          rel="noreferrer"
-          target="_blank"
-        >
-          {t('home.shareOnTwitter')}
-        </a>
         <SwitchLang />
       </div>
     </header>
