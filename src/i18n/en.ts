@@ -56,7 +56,7 @@ export default {
       },
       {
         q: 'Want to support/sponsor the project?',
-        a: 'If CoverView adds value in your life and you wish to support this project, you can sponsor me with <a class="font-semibold text-green-400 hover:underline" href="https://lruihao.cn/images/wechatpay.jpg" rel="noreferrer" target="_blank">WeChat</a>/<a class="font-semibold text-blue-400 hover:underline" href="https://lruihao.cn/images/alipay.jpg" rel="noreferrer" target="_blank">Alipay</a> or <a class="font-semibold text-pink-400 hover:underline" href="https://www.buymeacoffee.com/rutikwankhade" rel="noreferrer" target="_blank">buy Rutik Wankhade a coffee</a>.',
+        a: 'If CoverView adds value in your life and you wish to support this project, you can sponsor Lruihao with <a class="font-semibold text-green-400 hover:underline" href="https://lruihao.cn/images/wechatpay.jpg" rel="noreferrer" target="_blank">WeChat</a>/<a class="font-semibold text-blue-400 hover:underline" href="https://lruihao.cn/images/alipay.jpg" rel="noreferrer" target="_blank">Alipay</a> or <a class="font-semibold text-pink-400 hover:underline" href="https://www.buymeacoffee.com/rutikwankhade" rel="noreferrer" target="_blank">buy Rutik Wankhade a coffee</a>.',
       },
     ],
     tips: {
