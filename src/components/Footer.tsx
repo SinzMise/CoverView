@@ -38,10 +38,6 @@ function Footer() {
               GitHub
             </a>
           </div>
-          <span
-            className="text-xs mx-2 md:text-left text-center text-gray-300 hidden md:inline"
-            dangerouslySetInnerHTML={{ __html: t('home.footer.authorBlog') }}
-          />
         </div>
       </div>
     </footer>
