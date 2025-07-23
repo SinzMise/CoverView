@@ -26,7 +26,7 @@ export default {
     },
     tryItNow: '免费！立即试用',
     footer: {
-      copyright: '为爱发电 💛 <a href="https://github.com/Lruihao" class="font-semibold underline decoration-wavy underline-offset-4" target="_blank" rel="noreferrer">Lruihao</a>',
+      copyright: '© <a href="https://www.storical.space/" class="font-semibold underline decoration-wavy underline-offset-4" target="_blank" rel="noreferrer">SinZero Limited</a>',
       authorBlog: '查看我的 <a href="https://lruihao.cn/projects/" target="_blank" rel="noreferrer" class="text-purple-400 hover:text-pink-400">其他作品</a>',
     },
     tweetText: '在这里输入你的想法，试试 https://coverview.lruihao.cn by @Lruihao',
