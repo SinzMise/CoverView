@@ -4,7 +4,6 @@ import Header from './components/Header'
 import Importance from './components/Importance'
 import Supports from './components/Supports'
 import Usage from './components/Usage'
-import WallOfLove from './components/WallOfLove'
 
 function Home() {
   return (
@@ -14,7 +13,6 @@ function Home() {
       <Importance />
       <Usage />
       <Supports />
-      <WallOfLove />
       <Footer />
     </>
   )
